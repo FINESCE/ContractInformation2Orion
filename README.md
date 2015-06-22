@@ -1,0 +1,2 @@
+# ContractInformation2Orion
+ ContractInformation2Orion is a REST service (developed in Java) which allows clients (e.g. Retailers) to register data about cost of energy produced from the DERs, costs of transmission system and power plants, energy costs into an instance of ORION Context Broker GE.  This component can be eventually re-used and customized to fulfill the general need of having a REST service which is connected to the ORION GE. 
